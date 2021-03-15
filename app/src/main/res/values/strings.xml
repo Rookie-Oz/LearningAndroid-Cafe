@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cafe</string>
+    <string name="toppings">Toppings</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="add_chocolate_question">Add Chocolate?</string>
+    <string name="chocolate_checkbox_text">Chocolate</string>
+    <string name="whipped_cream_checkbox_text">Whipped Cream</string>
+    <string name="add_whipped_cream_question">Add Whipped Cream?</string>
+    <string name="quantity">Quantity</string>
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_total">Total: <xliff:g id="totalPrice" example="15">%s</xliff:g></string>
+
+</resources>
